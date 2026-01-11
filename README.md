@@ -1,6 +1,6 @@
 # Hi, I'm Danial Trody 👋
 
-🎓 Recent Computer Science Graduate  
+🎓 Computer Science Graduate  
 💻 Full-Stack & Frontend Developer  
 🔐 Interested in Cybersecurity and Web Performance  
 
@@ -21,9 +21,9 @@
 ---
 
 ### 📂 Featured Projects
-- **Portfolio** – Personal portfolio website with full-stack functionality  
-- **JobScout** – Job searching app using React & Node.js  
+- **Portfolio** – Personal portfolio website with full-stack functionality
 - **AI-Helper** – Python AI assistant tool  
+- **JobScout** – Job searching app using React & Node.js  
 - **ProductStore** – E-commerce app, full-stack  
 
 Check all projects here: [My Repositories](https://github.com/danialtrody?tab=repositories)
@@ -32,7 +32,7 @@ Check all projects here: [My Repositories](https://github.com/danialtrody?tab=re
 
 ### 📫 Contact Me
 - Email: trody2001@gmail.com  
-- LinkedIn: [linkedin.com/in/danialtrody](https://linkedin.com/in/danial-trody)  
+- LinkedIn: [linkedin.com/in/danial-trody](https://linkedin.com/in/danial-trody)  
 
 ---
 
