@@ -4,6 +4,9 @@
 💻 Full-Stack & Frontend Developer  
 🔐 Interested in Cybersecurity and Web Performance  
 
+[![Download Resume](https://img.shields.io/badge/Download_CV-📄-blue?style=for-the-badge)](https://github.com/danialtrody/danialtrody/raw/main/Danial%20Trody%20CV.pdf)
+
+
 ---
 
 ### 🛠️ Tech Stack
