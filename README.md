@@ -24,12 +24,13 @@
 ---
 
 ### 📂 Featured Projects
-- **Portfolio** – Personal portfolio website with admin features and dynamic content.  
-- **AI Chat & CV Analyzer** – Full-stack AI assistant for CV feedback and real-time chat.  
-- **JobScout** – Job board app fetching live listings from LinkedIn & Indeed.  
-- **ProductStore** – Full-stack e-commerce app with CRUD and responsive UI.  
+- [**Portfolio**](https://portfolio-5yr2.onrender.com) – Personal portfolio website with admin features and dynamic content.  
+- [**AI Chat & CV Analyzer**](https://ai-helper-72uy.onrender.com) – Full-stack AI assistant for CV feedback and real-time chat.  
+- [**JobScout**](https://jobscout-cf6d.onrender.com) – Job board app fetching live listings from LinkedIn & Indeed.  
+- [**ProductStore**](https://productstore-1ny7.onrender.com) – Full-stack e-commerce app with CRUD and responsive UI.  
 
 Check all projects here: [My Repositories](https://github.com/danialtrody?tab=repositories)
+
 
 ---
 
