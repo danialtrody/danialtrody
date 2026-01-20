@@ -37,4 +37,4 @@ Check all projects here: [My Repositories](https://github.com/danialtrody?tab=re
 ### 📫 Contact Me
 - Email: trody2001@gmail.com  
 - LinkedIn: [linkedin.com/in/danial-trody](https://linkedin.com/in/danial-trody)  
-- GitHub: [github.com/danialtrody](https://github.com/danialtrody)
+
